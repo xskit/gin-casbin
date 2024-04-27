@@ -5,12 +5,12 @@ This is a super simple middleware integrating with [Gin](https://github.com/gin-
 # Installation
 
 ```shell
-$ go get github.com/maxwellhertz/gin-casbin
+$ go get github.com/xskit/gin-casbin
 ```
 
 # Usage
 
-See [examples](https://github.com/maxwellhertz/gin-casbin/tree/master/examples).
+See [examples](https://github.com/xskit/gin-casbin/tree/master/examples).
 
 ## SubjectFn
 

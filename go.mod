@@ -1,4 +1,4 @@
-module github.com/maxwellhertz/gin-casbin
+module github.com/xskit/gin-casbin
 
 go 1.14
 

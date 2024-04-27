@@ -5,7 +5,7 @@ import (
 	"github.com/gin-contrib/sessions/cookie"
 	"github.com/gin-gonic/gin"
 	"github.com/google/uuid"
-	"github.com/maxwellhertz/gin-casbin"
+	"github.com/xskit/gin-casbin"
 	"log"
 )
 

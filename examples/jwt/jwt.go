@@ -3,7 +3,7 @@ package main
 import (
 	"github.com/gbrlsnchs/jwt/v3"
 	"github.com/gin-gonic/gin"
-	"github.com/maxwellhertz/gin-casbin"
+	"github.com/xskit/gin-casbin"
 	"log"
 	"strings"
 	"time"
